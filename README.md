@@ -8,7 +8,6 @@ Create a simple REST API application for managing books in a library using Sprin
 - Maven
 - IDE: IntelliJ o Spring Tool Suite
 
-## API
 
 [WritingCode on Youtube channel](https://www.youtube.com/@WritingCode-bq3gk)
 
